@@ -1,4 +1,4 @@
-version A
+version A & version B
 洗濯
 料理
 運動
